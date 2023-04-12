@@ -11,3 +11,4 @@ C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreap
 C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.dll
 C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.pdb
 C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.genruntimeconfig.cache
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.csproj.AssemblyReference.cache
