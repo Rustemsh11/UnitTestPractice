@@ -1,0 +1,13 @@
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.exe
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.deps.json
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.runtimeconfig.json
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.runtimeconfig.dev.json
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.dll
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.pdb
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.AssemblyInfoInputs.cache
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.AssemblyInfo.cs
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.dll
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.pdb
+C:\Users\агроном\source\repos\NUnitTest.App\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.genruntimeconfig.cache
