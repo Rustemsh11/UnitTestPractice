@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\агроном\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\агроном\\.nuget\\packages"
+      "C:\\Users\\rustemsh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rustemsh\\.nuget\\packages"
     ]
   }
 }

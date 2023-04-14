@@ -4961,19 +4961,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\агроном\\.nuget\\packages\\": {}
+    "C:\\Users\\rustemsh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest.UnitTests\\NUnitTest.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest.UnitTests\\NUnitTest.UnitTests.csproj",
       "projectName": "NUnitTest.UnitTests",
-      "projectPath": "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest.UnitTests\\NUnitTest.UnitTests.csproj",
-      "packagesPath": "C:\\Users\\агроном\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest.UnitTests\\obj\\",
+      "projectPath": "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest.UnitTests\\NUnitTest.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\rustemsh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\агроном\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rustemsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4987,8 +4987,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest\\NUnitTest.csproj": {
-              "projectPath": "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest\\NUnitTest.csproj"
+            "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest\\NUnitTest.csproj": {
+              "projectPath": "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest\\NUnitTest.csproj"
             }
           }
         }
@@ -5035,7 +5035,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   }

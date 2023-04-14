@@ -6,20 +6,23 @@ namespace NUnitTest
 {
     public class LogAnalyzer
     {
+        private readonly IExtensionManager manager;
+        public LogAnalyzer(IExtensionManager mng)
+        {
+            manager = mng;
+        }
+
+
         public bool ResultCalledIsValidLogFileNameMethod { get; set; }
+
+
         public bool IsValidLogFileName(string fileName)
         {
-            ResultCalledIsValidLogFileNameMethod = false;
-            if(fileName == string.Empty)
-            {
-                throw new ArgumentNullException("You shuld write file name");
-            }
-            if (fileName.EndsWith(".SLF", StringComparison.CurrentCultureIgnoreCase))
-            {
-                ResultCalledIsValidLogFileNameMethod = true;
-                return true;
-            }
-            return false;
+            
+            return manager.IsValid(fileName);
+
+            
         }
     }
+    
 }

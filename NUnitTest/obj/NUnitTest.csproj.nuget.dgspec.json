@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest\\NUnitTest.csproj": {}
+    "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest\\NUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest\\NUnitTest.csproj": {
+    "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest\\NUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest\\NUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest\\NUnitTest.csproj",
         "projectName": "NUnitTest",
-        "projectPath": "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest\\NUnitTest.csproj",
-        "packagesPath": "C:\\Users\\агроном\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\агроном\\source\\repos\\NUnitTest.App\\NUnitTest\\obj\\",
+        "projectPath": "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest\\NUnitTest.csproj",
+        "packagesPath": "C:\\Users\\rustemsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rustemsh\\Source\\Repos\\UnitTestPractice\\NUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\агроном\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rustemsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }
